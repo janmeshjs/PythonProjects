@@ -1,8 +1,8 @@
-# Java Projects Hub
+# Python Projects Hub
 
 [![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-orange.svg)](https://hacktoberfest.digitalocean.com/)
 
-Welcome to the **Java Projects Hub**, your vibrant community for exploring, sharing, and collaborating on Java projects. Whether you're a Java enthusiast, seasoned developer, or just starting your journey, you'll find a treasure trove of projects and opportunities to learn and contribute.
+Welcome to the **Python Projects Hub**, your vibrant community for exploring, sharing, and collaborating on Python projects. Whether you're a Python enthusiast, seasoned developer, or just starting your journey, you'll find a treasure trove of projects and opportunities to learn and contribute.
 
 ## About Hacktoberfest
 
@@ -20,7 +20,7 @@ Welcome to the **Java Projects Hub**, your vibrant community for exploring, shar
 
 ## How to Participate
 
-To get started with Hacktoberfest and contribute to the Java Projects Hub:
+To get started with Hacktoberfest and contribute to the Python Projects Hub:
 
 1. Register for Hacktoberfest on the [official website](https://hacktoberfest.digitalocean.com/).
 
@@ -28,7 +28,7 @@ To get started with Hacktoberfest and contribute to the Java Projects Hub:
 
 3. Clone the forked repository to your local machine:
    ```
-   git clone https://github.com/janmeshjs/JavaProjects.git
+   git clone https://github.com/janmeshjs/PythonProjects.git
    ```
  
 4. Create a new branch for your contributions:
@@ -36,7 +36,7 @@ To get started with Hacktoberfest and contribute to the Java Projects Hub:
    git checkout -b my-contribution
    ```
 
-5. Make your changes, whether it's adding a new Java project, fixing a bug, or improving documentation.
+5. Make your changes, whether it's adding a new Python project, fixing a bug, or improving documentation.
 
 6. Commit your changes and push them to your forked repository:
    ```
@@ -58,9 +58,9 @@ Before you start contributing, please review our [Contribution Guidelines](CONTR
 
 ## Get in Touch
 
-Have questions or need assistance? Feel free to [open an issue](https://github.com/yourusername/Java-Projects-Hub/issues) or join the conversation on our [Discussions](https://github.com/yourusername/Java-Projects-Hub/discussions) board.
+Have questions or need assistance? Feel free to [open an issue](https://github.com/yourusername/Python-Projects-Hub/issues) or join the conversation on our [Discussions](https://github.com/yourusername/Python-Projects-Hub/discussions) board.
 
-Let's celebrate Hacktoberfest together by creating and collaborating on Java projects that make a difference. Happy coding!
+Let's celebrate Hacktoberfest together by creating and collaborating on python projects that make a difference. Happy coding!
 
 <p align="center">
   <img src="Repository Assets/hackfoot.png"  >
